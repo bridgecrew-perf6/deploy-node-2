@@ -1,0 +1,15 @@
+{
+  "name": "node-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.8.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "prisma": "^3.8.1"
+  }
+}
